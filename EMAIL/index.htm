@@ -1,0 +1,48 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Ping</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <style>
+            #loader{
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <form id="pingForm">
+                <div class="form-group">
+                    <input type="text" placeholder="Full Name" id="fullname" name="fullname"/>
+                </div>
+                <div class="form-group">
+                    <input type="email" placeholder="Email Address" id="email" name="email"/>
+                </div>
+                <div class="form-group">
+                    <input type="number" placeholder="Mobile Number" id="mobile" name="mobile">
+                </div>
+                <div class="form-group">
+                    <select name="category" id="category">
+                        <option value="" selected disabled>Choose Category</option>
+                        <option value="Dance">Dancing</option>
+                        <option value="Music">Music</option>
+                        <option value="Painting">Paints and Arts & Crafts</option>
+                        <option value="Magic">Street Magic</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <textarea placeholder="Message" id="message" name="message"/></textarea>
+                </div>
+                <button type="submit">SEND <img id="loader" src="https://res.cloudinary.com/sivadass/image/upload/v1498134389/icons/loader.gif" alt="loading"></button>
+            </form>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,161 @@
+[02-May-2020 22:32:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-May-2020 00:05:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-May-2020 00:11:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-May-2020 01:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-May-2020 01:10:19 UTC]  .../api/Service.php:472  ET_Core_API_Service::make_remote_request():
+ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: ET_Core_HTTPInterface Object
+(
+    [REQUEST] => ET_Core_HTTPRequest Object
+        (
+            [ARGS] => Array
+                (
+                    [blocking] => 1
+                    [body] => 
+                    [cookies] => Array
+                        (
+                        )
+
+                    [headers] => Array
+                        (
+                            [Authorization] => Basic YnVpbGRlcjo4NzgyMWNkNTY1NDk4ZWU4NjgyMGQ3MmNkZTY5ZDVmYy11czg=
+                            [Accept] => application/json
+                        )
+
+                    [method] => GET
+                    [sslverify] => 1
+                    [user-agent] => WordPress/5.4.1; Divi Builder/4.4.1; http://lentrax.com/Translation-services
+                    [timeout] => 30
+                )
+
+            [URL] => https://us8.api.mailchimp.com/3.0/lists?count=250&fields=lists.name,lists.id,lists.stats,lists.double_optin
+            [METHOD] => GET
+            [BODY] => 
+            [IS_AUTH] => 
+            [IS_JSON_BODY] => 
+            [OWNER] => builder
+        )
+
+    [RESPONSE] => ET_Core_HTTPResponse Object
+        (
+            [STATUS_CODE] => 401
+            [STATUS_MESSAGE] => Unauthorized
+            [ERROR] => 1
+            [ERROR_MESSAGE] => Unauthorized
+            [DATA] => {"type":"http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/","title":"API Key Invalid","status":401,"detail":"Your API key may be invalid, or you've attempted to access the wrong datacenter.","instance":"6c1bf2e2-54df-4e80-a48b-bdd33b3ba0fc"}
+        )
+
+)
+
+[03-May-2020 01:10:36 UTC]  .../api/Service.php:472  ET_Core_API_Service::make_remote_request():
+ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: ET_Core_HTTPInterface Object
+(
+    [REQUEST] => ET_Core_HTTPRequest Object
+        (
+            [ARGS] => Array
+                (
+                    [blocking] => 1
+                    [body] => 
+                    [cookies] => Array
+                        (
+                        )
+
+                    [headers] => Array
+                        (
+                            [Authorization] => Basic YnVpbGRlcjo4NzgyMWNkNTY1NDk4ZWU4NjgyMGQ3MmNkZTY5ZDVmYy11czg=
+                            [Accept] => application/json
+                        )
+
+                    [method] => GET
+                    [sslverify] => 1
+                    [user-agent] => WordPress/5.4.1; Divi Builder/4.4.1; http://lentrax.com/Translation-services
+                    [timeout] => 30
+                )
+
+            [URL] => https://us8.api.mailchimp.com/3.0/lists?count=250&fields=lists.name,lists.id,lists.stats,lists.double_optin
+            [METHOD] => GET
+            [BODY] => 
+            [IS_AUTH] => 
+            [IS_JSON_BODY] => 
+            [OWNER] => builder
+        )
+
+    [RESPONSE] => ET_Core_HTTPResponse Object
+        (
+            [STATUS_CODE] => 401
+            [STATUS_MESSAGE] => Unauthorized
+            [ERROR] => 1
+            [ERROR_MESSAGE] => Unauthorized
+            [DATA] => {"type":"http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/","title":"API Key Invalid","status":401,"detail":"Your API key may be invalid, or you've attempted to access the wrong datacenter.","instance":"c5e6865a-3bd8-4ad0-b841-93ccddb6671b"}
+        )
+
+)
+
+[26-Jun-2020 23:27:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[29-Jun-2020 23:27:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[02-Jul-2020 23:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[05-Jul-2020 23:28:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[09-Jul-2020 23:33:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[15-Jul-2020 23:28:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[21-Jul-2020 23:28:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[27-Jul-2020 23:28:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[02-Aug-2020 23:27:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[08-Aug-2020 23:28:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[16-Aug-2020 23:27:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[19-Aug-2020 23:27:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[22-Aug-2020 23:28:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[25-Aug-2020 23:28:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[28-Aug-2020 23:26:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[31-Aug-2020 23:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-Sep-2020 23:27:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[06-Sep-2020 23:56:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[09-Sep-2020 23:28:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[12-Sep-2020 23:30:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[15-Sep-2020 23:26:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[18-Sep-2020 23:28:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[21-Sep-2020 23:29:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[24-Sep-2020 23:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[27-Sep-2020 23:29:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[30-Sep-2020 23:28:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[03-Oct-2020 23:26:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[06-Oct-2020 23:27:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[09-Oct-2020 23:27:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[12-Oct-2020 23:28:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[15-Oct-2020 23:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[18-Oct-2020 23:26:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[21-Oct-2020 23:28:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[24-Oct-2020 23:27:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[27-Oct-2020 23:29:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[30-Oct-2020 21:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[02-Nov-2020 23:27:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[05-Nov-2020 23:30:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[08-Nov-2020 23:30:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[11-Nov-2020 23:29:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[14-Nov-2020 23:28:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[17-Nov-2020 23:30:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[20-Nov-2020 23:28:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[23-Nov-2020 23:29:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[26-Nov-2020 23:29:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[29-Nov-2020 23:30:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[02-Dec-2020 23:28:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[05-Dec-2020 23:28:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[08-Dec-2020 23:29:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[11-Dec-2020 23:32:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[14-Dec-2020 23:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[17-Dec-2020 23:27:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[20-Dec-2020 23:27:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[23-Dec-2020 23:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[26-Dec-2020 23:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[29-Dec-2020 23:27:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[01-Jan-2021 23:30:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[04-Jan-2021 23:31:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[07-Jan-2021 23:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[10-Jan-2021 23:32:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[13-Jan-2021 23:38:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[16-Jan-2021 23:36:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[19-Jan-2021 23:39:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[22-Jan-2021 23:37:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283
+[25-Jan-2021 23:36:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/lentrax.com/public_html/Translation-services/wp-content/plugins/divi-overlays/updater.php on line 283

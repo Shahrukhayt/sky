@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2138 53.5" style="enable-background:new 0 0 2138 53.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#00A14B;stroke-width:0.9;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#F7941D;stroke-width:0.9;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#00AEEF;stroke-width:0.9;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#EF4136;stroke-width:0.9;stroke-miterlimit:10;}
+</style>
+<title>lines_seperator</title>
+<path id="line-green" class="st0" d="M0,52.4c77.7-45.7,186.5-42.2,274.9-30c66.3,9.2,129.9,15.1,197.2,14.2
+	c152.8-2,304-39.1,456-36.1c96.6,1.9,189.9,27.7,285.5,38.3c105.1,11.7,208.2-2.9,312.6-14C1729,3.2,1937.5,55.1,2138,16.4"/>
+<path id="line-yellow" class="st1" d="M0,37.4C97.5,56.1,188.3,16.1,278.2,7.9C361.3,0.3,426.6,32.3,505.5,45
+	c94.2,15.2,188.7-25.1,282.7-25.9c98.8-0.8,191.8,37.5,291.4,32.2c175.4-9.2,343.7-36.8,520.3-17.7c78.8,8.5,157.4,15,236.7,11.2
+	c97.4-4.7,203.4-23.5,301.2-21"/>
+<path id="line-blue" class="st2" d="M2138,53.1c-189.3-35-383.9-11.8-575-14.2c-96.9-1.2-193.2-12-290.1-14.5
+	c-95.8-2.5-190.8,9.3-286.4,13S801.2,19.6,706.7,13.9c-75.3-4.6-146.5,18.1-221.9,8C410.9,12,355.7,34.3,281.3,43.3
+	C194.6,53.7,83.1,6.7,0,31.2"/>
+<path id="line-red" class="st3" d="M2138,39.6c-198.8,18.7-398.7-39.7-598.7-18.1C1338,43.3,1141.7,8.6,940.9,31.4
+	C771.2,50.6,602.2,7.8,432.1,10C291.6,11.8,138.3,73.1,0,23.9"/>
+</svg>

@@ -1,0 +1,71 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+### Start ###
+
+# global rules
+
+# disallow all files in these directories
+User-agent: *
+Disallow: /admin/
+Disallow: /blog/
+Disallow: /home/
+Disallow: /tmp/
+Disallow: /EMAIL/
+Disallow: /archives/
+Disallow: /xmlrpc.php
+Disallow: /download/
+Disallow: /error_log
+Disallow: /account/
+Disallow: /userdata
+Disallow: /fonts/
+Disallow: /install/
+Disallow: /includes/
+Disallow: /widgets/
+Disallow: /modules/
+Disallow: /scripts/
+Disallow: /themes/
+
+Disallow: /da/
+Disallow: /assets/
+Disallow: /tag
+Disallow: /bn/
+Disallow: /uz/
+Disallow: /EMAIL/
+Disallow: /pl/
+Disallow: /Legal Translation services Archives _ Lentrax Financial Translation Services_files/
+
+
+# Allow all files in these directories
+Allow: /modules/*.js
+Allow: /modules/*.png
+Allow: /modules/*.gif
+Allow: /modules/*.css
+
+Noindex: /unsubscribe
+
+# Allow and disallow bot engines
+User-agent: Mediapartners-Google*
+Allow: /
+User-agent: Googlebot-Image
+Allow: /uploads/
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Linguee Bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BaiduSpider
+Disallow: /admin
+User-agent: Bingbot
+Disallow: /admin
+User-agent: YandexBot
+Disallow: /admin
+
+Sitemap: https://lentrax.com/sitemap2.xml
+
+### Stop ###

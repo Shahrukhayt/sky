@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+langspire.com	TRUE	/	FALSE	1999999999	langspire_session	a78d11ceff1c50023c396c6d489e7fdd
+

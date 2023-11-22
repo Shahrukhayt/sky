@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Feb 2020 01:31:14 at https://langspire.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps0u1%s%uN100%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://langspire.com/ -O1 "E:\Projects\Lentrax\web\Lentraxen\Lentrax en" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:31:55	Warning: 	Found for langspire.com/en/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/en/ and https://langspire.com/en/
+01:31:55	Warning: 	File has moved from langspire.com/en/ to https://langspire.com/en/
+01:31:55	Warning: 	Found for langspire.com/es/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/es/ and https://langspire.com/es/
+01:31:55	Warning: 	File has moved from langspire.com/es/ to https://langspire.com/es/
+01:31:55	Warning: 	Found for langspire.com/ru/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/ru/ and https://langspire.com/ru/
+01:31:55	Warning: 	File has moved from langspire.com/ru/ to https://langspire.com/ru/
+01:31:55	Warning: 	Found for langspire.com/fr/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/fr/ and https://langspire.com/fr/
+01:31:55	Warning: 	File has moved from langspire.com/fr/ to https://langspire.com/fr/
+01:31:55	Warning: 	Found for langspire.com/cn/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/cn/ and https://langspire.com/cn/
+01:31:55	Warning: 	File has moved from langspire.com/cn/ to https://langspire.com/cn/
+01:31:55	Warning: 	Found for langspire.com/de/
+01:31:55	Warning: 	Redirected link is identical because of 'URL Hack' option: langspire.com/de/ and https://langspire.com/de/
+01:31:55	Warning: 	File has moved from langspire.com/de/ to https://langspire.com/de/
+01:32:47	Error: 	"Not Found" (404) at link https://langspire.com/â«/ (from https://langspire.com/)
+01:32:47	Error: 	"Not Found" (404) at link https://langspire.com/static.olark.com/jsclient/loader.js (from https://langspire.com/)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/ (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/about-us (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/services (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/our-process (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/industries (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/careers (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/contact-us (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/privacy-policy (from https://langspire.com/ar)
+01:33:04	Error: 	"Not Found" (404) at link https://langspire.com/â«/ar/terms-of-service (from https://langspire.com/ar)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/careers/â«/ (from https://langspire.com/careers/open-positions)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/careers/static.olark.com/jsclient/loader.js (from https://langspire.com/careers/open-positions)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/services/â«/ (from https://langspire.com/services/translation)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/services/static.olark.com/jsclient/loader.js (from https://langspire.com/services/translation)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/industries/â«/ (from https://langspire.com/industries/retail-ecommerce)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/industries/static.olark.com/jsclient/loader.js (from https://langspire.com/industries/retail-ecommerce)
+01:33:11	Error: 	"Not Found" (404) at link https://langspire.com/forgot-password (from https://langspire.com/login)
+01:33:12	Error: 	"Not Found" (404) at link https://langspire.com/fr/â«/ (from https://langspire.com/fr/about-us)
+01:33:12	Error: 	"Not Found" (404) at link https://langspire.com/fr/static.olark.com/jsclient/loader.js (from https://langspire.com/fr/about-us)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/careers/open-positions/8/static.olark.com/jsclient/loader.js (from https://langspire.com/careers/open-positions/8/test)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/careers/â«/ (from https://langspire.com/fr/careers/open-positions)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/careers/static.olark.com/jsclient/loader.js (from https://langspire.com/fr/careers/open-positions)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/services/â«/ (from https://langspire.com/fr/services/translation)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/services/static.olark.com/jsclient/loader.js (from https://langspire.com/fr/services/translation)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/industries/â«/ (from https://langspire.com/fr/industries/retail-ecommerce)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/industries/static.olark.com/jsclient/loader.js (from https://langspire.com/fr/industries/retail-ecommerce)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/forgot-password (from https://langspire.com/fr/login)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/fr/careers/open-positions/8/ (from https://langspire.com/fr/login)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/careers/open-positions/8/â«/â«/ (from https://langspire.com/careers/open-positions/8/â«/)
+01:33:15	Error: 	"Not Found" (404) at link https://langspire.com/careers/open-positions/8/â«/static.olark.com/jsclient/loader.js (from https://langspire.com/careers/open-positions/8/â«/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 338 links scanned, 301 files written (19302805 bytes overall) [19412048 bytes received at 160430 bytes/sec], 13.6 requests per connection
+(31 errors, 18 warnings, 0 messages)

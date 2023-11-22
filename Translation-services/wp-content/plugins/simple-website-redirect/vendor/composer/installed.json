@@ -1,0 +1,38 @@
+[
+    {
+        "name": "wpscholar/url",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wpscholar/url.git",
+            "reference": "17b99f0cafe6b27411e1a2a36f889d03f2de77d9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wpscholar/url/zipball/17b99f0cafe6b27411e1a2a36f889d03f2de77d9",
+            "reference": "17b99f0cafe6b27411e1a2a36f889d03f2de77d9",
+            "shasum": ""
+        },
+        "time": "2017-04-19T15:59:18+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "wpscholar\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "Micah Wood",
+                "email": "micah@wpscholar.com",
+                "homepage": "http://wpscholar.com"
+            }
+        ],
+        "description": "A PHP class for parsing and manipulating URLs."
+    }
+]
